@@ -1,4 +1,7 @@
 <div align="center">
+
+<!-- Snow Effect -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Snow Effect" />
   
 # 👋 Hi, I'm Kadir
 
@@ -72,39 +75,9 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kadiirhocaoglu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadiirhocaoglu&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadiirhocaoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadiirhocaoglu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=58A6FF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=kadiirhocaoglu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ### 👀 Profile Views
 
