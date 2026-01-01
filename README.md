@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Snow Effect -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Snow Effect" />
   
 # 👋 Hi, I'm Kadir
 
